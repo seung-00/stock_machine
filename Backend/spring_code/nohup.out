@@ -1,0 +1,60 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.3.3.RELEASE)
+
+2020-09-18 11:02:58.680  INFO 93399 --- [           main] s.stockproject.StockProjectApplication   : Starting StockProjectApplication on s1749f7ef457 with PID 93399 (/root/StockNews/Backend/spring_code/stockproject-0.0.1-SNAPSHOT.jar started by root in /root/StockNews/Backend/spring_code)
+2020-09-18 11:02:58.704  INFO 93399 --- [           main] s.stockproject.StockProjectApplication   : No active profile set, falling back to default profiles: default
+2020-09-18 11:03:02.041  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'histodyDAO' and 'stock.stockproject.dao.HistodyDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.042  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'newsDAO' and 'stock.stockproject.dao.NewsDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.042  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'predictDAO' and 'stock.stockproject.dao.PredictDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.042  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'priceDAO' and 'stock.stockproject.dao.PriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.043  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'topTenDAO' and 'stock.stockproject.dao.TopTenDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.043  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'totalPriceDAO' and 'stock.stockproject.dao.TotalPriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.043  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[stock.stockproject.dao]' package. Please check your configuration.
+2020-09-18 11:03:02.046  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'histodyDAO' and 'stock.stockproject.dao.HistodyDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.046  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'newsDAO' and 'stock.stockproject.dao.NewsDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.047  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'predictDAO' and 'stock.stockproject.dao.PredictDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.047  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'priceDAO' and 'stock.stockproject.dao.PriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.047  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'topTenDAO' and 'stock.stockproject.dao.TopTenDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.047  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'totalPriceDAO' and 'stock.stockproject.dao.TotalPriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.047  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[stock.stockproject.dao]' package. Please check your configuration.
+2020-09-18 11:03:02.050  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'histodyDAO' and 'stock.stockproject.dao.HistodyDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.050  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'newsDAO' and 'stock.stockproject.dao.NewsDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.051  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'predictDAO' and 'stock.stockproject.dao.PredictDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.058  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'priceDAO' and 'stock.stockproject.dao.PriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.059  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'topTenDAO' and 'stock.stockproject.dao.TopTenDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.059  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'totalPriceDAO' and 'stock.stockproject.dao.TotalPriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.059  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[stock.stockproject.dao]' package. Please check your configuration.
+2020-09-18 11:03:02.061  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'histodyDAO' and 'stock.stockproject.dao.HistodyDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.061  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'newsDAO' and 'stock.stockproject.dao.NewsDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.061  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'predictDAO' and 'stock.stockproject.dao.PredictDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.061  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'priceDAO' and 'stock.stockproject.dao.PriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.061  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'topTenDAO' and 'stock.stockproject.dao.TopTenDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.062  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'totalPriceDAO' and 'stock.stockproject.dao.TotalPriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.062  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[stock.stockproject.dao]' package. Please check your configuration.
+2020-09-18 11:03:02.068  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'histodyDAO' and 'stock.stockproject.dao.HistodyDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.068  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'newsDAO' and 'stock.stockproject.dao.NewsDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.068  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'predictDAO' and 'stock.stockproject.dao.PredictDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.068  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'priceDAO' and 'stock.stockproject.dao.PriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.068  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'topTenDAO' and 'stock.stockproject.dao.TopTenDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.068  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : Skipping MapperFactoryBean with name 'totalPriceDAO' and 'stock.stockproject.dao.TotalPriceDAO' mapperInterface. Bean already defined with the same name!
+2020-09-18 11:03:02.069  WARN 93399 --- [           main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[stock.stockproject.dao]' package. Please check your configuration.
+2020-09-18 11:03:03.981  INFO 93399 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 7749 (http)
+2020-09-18 11:03:04.036  INFO 93399 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-09-18 11:03:04.037  INFO 93399 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-18 11:03:04.295  INFO 93399 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-09-18 11:03:04.295  INFO 93399 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5062 ms
+2020-09-18 11:03:06.798  INFO 93399 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-18 11:03:06.925  INFO 93399 --- [           main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2020-09-18 11:03:07.164  INFO 93399 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 7749 (http) with context path ''
+2020-09-18 11:03:07.183  INFO 93399 --- [           main] s.stockproject.StockProjectApplication   : Started StockProjectApplication in 10.744 seconds (JVM running for 12.91)
+2020-09-18 11:03:20.385  INFO 93399 --- [nio-7749-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-18 11:03:20.386  INFO 93399 --- [nio-7749-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-09-18 11:03:20.398  INFO 93399 --- [nio-7749-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 12 ms
+2020-09-18 11:03:20.477  INFO 93399 --- [nio-7749-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-09-18 11:03:21.330  INFO 93399 --- [nio-7749-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
